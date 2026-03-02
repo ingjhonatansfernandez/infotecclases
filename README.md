@@ -1,0 +1,2 @@
+# infotecclases
+Clases diplomado INFOTEC
